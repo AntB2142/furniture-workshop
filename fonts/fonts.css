@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'TenorSans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./TenorSans.woff2") format("woff2"), url("./TenorSans.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url("./OpenSans-Light.woff2") format("woff2"), url("./OpenSans-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./OpenSans-Regular.woff2") format("woff2"), url("./OpenSans-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("./OpenSans-Bold.woff2") format("woff2"), url("./OpenSans-Bold.woff") format("woff");
+}
